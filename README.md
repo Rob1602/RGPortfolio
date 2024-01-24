@@ -8,7 +8,7 @@ Machine Learning Project predicting high-school student success in the last math
 ### Natural Language Processing Project:     https://github.com/Rob1602/SentimentAnalysisNLP.git 
 Sentiment analysis on Twitter Comments about Covid-19 pandemic.
 
-### Videogame:       https://github.com/Rob1602/CastleWar.git 
+### Group-project:       https://github.com/Rob1602/CastleWar.git 
 Two-players combat videogame.
 
 ## Contatti
