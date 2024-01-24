@@ -9,7 +9,7 @@ Machine Learning Project predicting student success in the last math exam.
 Sentiment analysis on Twitter Comments about Covid-19 pandemic.
 
 ### https://github.com/Rob1602/CastleWar.git 
-Two-players combact videogame.
+Two-players combat videogame.
 
 ## Contatti
 
