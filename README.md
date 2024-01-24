@@ -3,7 +3,7 @@
 ## Progetti
 
 ### https://github.com/Rob1602/StudentSuccessPredictionML.git
-Machine Learning Project about student success in the last math exam prediction. 
+Machine Learning Project predicting student success in the last math exam. 
 
 ### https://github.com/Rob1602/SentimentAnalysisNLP.git 
 Sentiment analysis on Twitter Comments about Covid-19 pandemic.
