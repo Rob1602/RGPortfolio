@@ -2,13 +2,13 @@
 
 ## Progetti
 
-### https://github.com/Rob1602/StudentSuccessPredictionML.git
+### Machine Learning Project:      https://github.com/Rob1602/StudentSuccessPredictionML.git
 Machine Learning Project predicting high-school student success in the last math exam. 
 
-### https://github.com/Rob1602/SentimentAnalysisNLP.git 
+### Natural Language Processing Project:     https://github.com/Rob1602/SentimentAnalysisNLP.git 
 Sentiment analysis on Twitter Comments about Covid-19 pandemic.
 
-### https://github.com/Rob1602/CastleWar.git 
+### Videogame:       https://github.com/Rob1602/CastleWar.git 
 Two-players combat videogame.
 
 ## Contatti
